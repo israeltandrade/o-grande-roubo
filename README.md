@@ -1,10 +1,10 @@
 # O Grande Roubo
 
-Um jogo em JAVA no estilo "Carmen Sandiego". Cada vez que o programa roda é gerada uma nova história.
+## Um jogo em JAVA no estilo "Carmen Sandiego". Cada vez que o programa roda é gerada uma nova história.
 
-Um exemplo do output:
+### Um exemplo do output:
 
-"Criminoso:
+- Criminoso:
 Nome: Roberto
 Apelido: O Cabeça
 Ano de nascimento: 1976
@@ -13,7 +13,7 @@ Tem os seguintes itens:
 -Canivete Suíço sem corte.
 -Maçã meio apodrecida.
 ----------------------------
-Criminoso:
+- Criminoso:
 Nome: Linguiça
 Apelido: O Montanha
 Ano de nascimento: 1978
@@ -22,62 +22,62 @@ Tem os seguintes itens:
 -Taco de baseball.
 -Palito de dentes.
 ----------------------------------
-A quadrilha tentou roubar o(a) Banco, mas falhou.
+- A quadrilha tentou roubar o(a) Banco, mas falhou.
 Guilherme Rocha não conseguiu capturar os criminosos.
 Até agora, eles conseguiram roubar itens avaliados em $0,00
 ----------------------------------
-A quadrilha conseguiu roubar o seguinte edificio: Banco
+- A quadrilha conseguiu roubar o seguinte edificio: Banco
 E os seguintes itens foram roubados:
 -Abridor de Cartas
 -Carimbo
 Guilherme Rocha não conseguiu capturar os criminosos.
 Até agora, eles conseguiram roubar itens avaliados em $4,00
 ----------------------------------
-A quadrilha tentou roubar o(a) Correio, mas falhou.
+- A quadrilha tentou roubar o(a) Correio, mas falhou.
 Guilherme Rocha não conseguiu capturar os criminosos.
 Até agora, eles conseguiram roubar itens avaliados em $4,00
 ----------------------------------
-A quadrilha tentou roubar o(a) Supermercado, mas falhou.
+- A quadrilha tentou roubar o(a) Supermercado, mas falhou.
 Guilherme Rocha não conseguiu capturar os criminosos.
 Até agora, eles conseguiram roubar itens avaliados em $4,00
 ----------------------------------
-A quadrilha conseguiu roubar o seguinte edificio: Banco
+- A quadrilha conseguiu roubar o seguinte edificio: Banco
 E os seguintes itens foram roubados:
 -Abridor de Cartas
 -Carimbo
 Guilherme Rocha não conseguiu capturar os criminosos.
 Até agora, eles conseguiram roubar itens avaliados em $8,00
 ----------------------------------
-A quadrilha tentou roubar o(a) Banco, mas falhou.
+- A quadrilha tentou roubar o(a) Banco, mas falhou.
 Guilherme Rocha não conseguiu capturar os criminosos.
 Até agora, eles conseguiram roubar itens avaliados em $8,00
 ----------------------------------
-A quadrilha conseguiu roubar o seguinte edificio: Correio
+- A quadrilha conseguiu roubar o seguinte edificio: Correio
 E os seguintes itens foram roubados:
 -Carta para João
 -Lápis
 Guilherme Rocha não conseguiu capturar os criminosos.
 Até agora, eles conseguiram roubar itens avaliados em $11,50
 ----------------------------------
-A quadrilha tentou roubar o(a) Mansão, mas falhou.
+- A quadrilha tentou roubar o(a) Mansão, mas falhou.
 Guilherme Rocha não conseguiu capturar os criminosos.
 Até agora, eles conseguiram roubar itens avaliados em $11,50
 ----------------------------------
-A quadrilha conseguiu roubar o seguinte edificio: Correio
+- A quadrilha conseguiu roubar o seguinte edificio: Correio
 E os seguintes itens foram roubados:
 -Carta para João
 -Lápis
 Guilherme Rocha não conseguiu capturar os criminosos.
 Até agora, eles conseguiram roubar itens avaliados em $15,00
 ----------------------------------
-A quadrilha conseguiu roubar o seguinte edificio: Supermercado
+- A quadrilha conseguiu roubar o seguinte edificio: Supermercado
 E os seguintes itens foram roubados:
 -Fatia de pão
 -Uma sacola de chá
 Guilherme Rocha não conseguiu capturar os criminosos.
 Até agora, eles conseguiram roubar itens avaliados em $24,00
 ----------------------------------
-A quadrilha tentou roubar o(a) Mansão, mas falhou.
+- A quadrilha tentou roubar o(a) Mansão, mas falhou.
 Guilherme Rocha conseguiu capturar a quadrilha.
 Os valores roubados foram recuperados.
 O valor estimado de todos eles é de $24.0"
